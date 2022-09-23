@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobigic/static/css/main.e6c13ad2.css",
+    "main.js": "/mobigic/static/js/main.4390f16c.js",
+    "static/js/787.7aab943f.chunk.js": "/mobigic/static/js/787.7aab943f.chunk.js",
+    "index.html": "/mobigic/index.html",
+    "main.e6c13ad2.css.map": "/mobigic/static/css/main.e6c13ad2.css.map",
+    "main.4390f16c.js.map": "/mobigic/static/js/main.4390f16c.js.map",
+    "787.7aab943f.chunk.js.map": "/mobigic/static/js/787.7aab943f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4390f16c.js"
+  ]
+}
